@@ -29,15 +29,15 @@ this will now create a new sdl window with the object rendered
 
 
 ### human head 
-![man](assets/man.png)
+<img width="236" alt="man" src="https://github.com/akshat-sj/razwire/blob/main/assets/man.png?raw=true">
 
 ### gun 
-![gun](assets/gun.png)
+
+<img width="818" alt="gun" src="https://github.com/akshat-sj/razwire/blob/main/assets/gun.png?raw=true">
 
 
 ## Built With
 
 * [C++](https://isocpp.org/) - the programming language used
 * [SDL2](https://www.libsdl.org/) - library used for basic graphical rendering (drawing lines, generating a window etc.)
-
 
