@@ -29,11 +29,11 @@ this will now create a new sdl window with the object rendered
 
 
 ### human head 
-<img width="236" alt="man" src="https://github.com/akshat-sj/razwire/blob/main/assets/man.png?raw=true">
+<img width="236" alt="man" src="https://github.com/akshat-sj/razwire/blob/main/assets/man.png">
 
 ### gun 
 
-<img width="818" alt="gun" src="https://github.com/akshat-sj/razwire/blob/main/assets/gun.png?raw=true">
+<img width="818" alt="gun" src="https://github.com/akshat-sj/razwire/blob/main/assets/gun.png">
 
 
 ## Built With
